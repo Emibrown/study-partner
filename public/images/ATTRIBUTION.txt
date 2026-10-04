@@ -1,0 +1,5 @@
+Google G logo
+Source: https://developers.google.com/static/identity/images/g-logo.png
+Brand guidelines: https://developers.google.com/identity/branding-guidelines
+Local file: google-logo.png
+Official Google branding asset, bundled unchanged for the Google sign-in button.
