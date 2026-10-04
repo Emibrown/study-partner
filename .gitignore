@@ -1,0 +1,17 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+next-env.d.ts
+playwright-report/
+test-results/
+.DS_Store
+.auth-test/
+.next-auth-test/
+.next-verify/
+.private-backups/
+public/pdf.worker.min.mjs
+.vscode/
+submission-review/
